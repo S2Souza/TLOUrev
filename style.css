@@ -1,0 +1,16 @@
+#estalador { 
+    width: 1000px;
+    margin-left: 12%;
+    border-color: darkgrey;
+    border-style: solid;
+    border-width: 4px;
+}
+.c { text-align: center;}
+
+body { background-color: black;}
+
+h1 { color: rgb(184, 0, 0);}
+h2 { color: darkgreen;}
+p { color: darkgrey;}
+
+div { background-color: rgb(44, 28, 28);}
